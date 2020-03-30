@@ -5,5 +5,4 @@ A simple weather app for Android. It gathers data from [OpenWeatherMap](https://
 ## Features
 * Simple design
 * Detailed 5 day forecast
-* Multiple units
 * Offline functionality
