@@ -8,6 +8,3 @@ A simple weather app for Android. It gathers data from [OpenWeatherMap](https://
 * Multiple units
 * Works with any city in the world
 * Offline functionality
-
-## Screenshots
-[<img src="https://i.imgur.com/8g7HPIL.png" width=250>](https://i.imgur.com/8g7HPIL.png)
