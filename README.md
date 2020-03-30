@@ -1,4 +1,4 @@
-# Forecastie
+# Weather
 
 A simple weather app for Android. It gathers data from [OpenWeatherMap](https://openweathermap.org/), via their public API.
 
